@@ -1,0 +1,15 @@
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\bin\Debug\net6.0\example001_HelloConsle.exe
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\bin\Debug\net6.0\example001_HelloConsle.deps.json
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\bin\Debug\net6.0\example001_HelloConsle.runtimeconfig.json
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\bin\Debug\net6.0\example001_HelloConsle.dll
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\bin\Debug\net6.0\example001_HelloConsle.pdb
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\obj\Debug\net6.0\example001_HelloConsle.csproj.AssemblyReference.cache
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\obj\Debug\net6.0\example001_HelloConsle.GeneratedMSBuildEditorConfig.editorconfig
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\obj\Debug\net6.0\example001_HelloConsle.AssemblyInfoInputs.cache
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\obj\Debug\net6.0\example001_HelloConsle.AssemblyInfo.cs
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\obj\Debug\net6.0\example001_HelloConsle.csproj.CoreCompileInputs.cache
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\obj\Debug\net6.0\example001_HelloConsle.dll
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\obj\Debug\net6.0\refint\example001_HelloConsle.dll
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\obj\Debug\net6.0\example001_HelloConsle.pdb
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\obj\Debug\net6.0\example001_HelloConsle.genruntimeconfig.cache
+L:\study\gb\geekbrains\с\examples\example001_HelloConsle\obj\Debug\net6.0\ref\example001_HelloConsle.dll
